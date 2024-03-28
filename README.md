@@ -5,11 +5,12 @@ Welcome to the Team Feedback Analyzer project repository! This project aims to s
 ## Getting Started
 To use this application, follow these steps:
 
-## Download LM Studio: LM Studio must be downloaded to utilize the custom text generation capabilities of the project. You can download LM Studio from LM Studio's website.
+1. **Download LM Studio**: LM Studio must be downloaded to utilize the custom text generation capabilities of the project. You can download LM Studio from [LM Studio's website](https://lmstudio.openai.com/).
 
-## Download Model: Once LM Studio is installed, download a suitable language model. For this project, we recommend using the Dolphin 2.2.1 Mistral model for optimal performance.
+2. **Download Model**: Once LM Studio is installed, download a suitable language model. For this project, we recommend using the Dolphin 2.2.1 Mistral model for optimal performance.
 
-## Run Local Server: Start LM Studio's local server to enable the text generation functionality locally.
+3. **Run Local Server**: Start LM Studio's local server to enable the text generation functionality locally.
+
 
 ## Usage
 Main.py
